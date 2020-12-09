@@ -3,12 +3,26 @@
 ## 1. Basic
   - Install the nodemon package globally 
     (you're going to need it, more and more)
-
-  - Initalize an npm package here (in the exercise folder)
+    ```ShellScript
+      sudo npm -g install nodemon
+    ```
+  - Initialize an npm package here (in the exercise folder)
+    ```ShellScript
+      npm init
+    ```
   - Install express
+    ```ShellScript
+      npm install express
+    ```
   - Add an index.js file
+    ```ShellScript
+      code index.js
+    ```
   - import express, create an app, and listen on port 4444
   - run it with nodemon (nodemon index.js)
+    ```ShellScript
+      nodemon index.js
+    ```
   - direct your webbrowser to http://localhost:4444/
 
 ## 2. Static
