@@ -2,7 +2,7 @@
 
 ## 1. Basic
   - Install the nodemon package globally 
-    (your going to need it, more and more)
+    (you're going to need it, more and more)
 
   - Initalize an npm package here (in the exercise folder)
   - Install express
